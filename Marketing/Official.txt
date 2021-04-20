@@ -1,0 +1,7 @@
+101 7000000.0 Ngoc Ty,Nu,05/02/1999,Dong Nai,0239472344,01/10/2016,Truong Ban
+102 0.0 Nguyen Huy Tinh,Nam,05/02/1999,Dong Nai,0239472344,01/10/2016,Nhan vien
+103 0.0 Tran Nguyen Chi Nhan,Nam,05/02/1999,Dong Nai,0239472344,01/10/2016,Nhan vien
+104 0.0 Nguyen Nhat,Nam,05/02/1999,Dong Nai,Nu,05/02/1999,Nhan vien
+105 0.0 Le Duy Khang,Nam,05/02/1999,TpHCM,0239472344,01/10/2016,Nhan vien
+1020 1000000.0 Tran Nguyen Hoai An,Nu,02/02/1999,Tan Phu,0239572353,27/10/2019,Nhan vien
+1011 5000000.0 Nhan Tai Duc,Nam,02/02/1999,Tan Phu,349587203,28/10/2019,Nhan vien ky thuat
